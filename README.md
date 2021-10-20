@@ -1,17 +1,14 @@
 ### Hi there. 👋 
 
-I'm a 26 year old Android developer working @ <a href="https://cobeisfresh.com">COBE Osijek</a>.
+I'm a 26 year old Android developer. Currently working @ <a href="https://cobeisfresh.com">COBE Osijek</a>.  
 
-
-
-
-- 🤝 I’m currently leading a great team of Android developers.
+- 🤝 I’m leading a great team of 4 Android developers.
 - 👨‍💻 Also building beautiful Android apps.
-- ✍️ Writing technical articles for the company's blog and for the RayWenderlich team.
+- ✍️ Writing technical articles for the company's blog and for the RayWenderlich team.  
+ You check some of those out on <a href="https://medium.com/@lukakordi">my medium page.</a>.
+- 💻 Tinkering with Jetpack Compose
 - 🗣️ Holding lectures in the local GDG Osijek community
 - 🧗‍♂️ 🎮 📺 📚 climbing, video games, TV shows, reading in spare time. 
-
-
 
 <!--
 **LukaKordic/lukakordic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
