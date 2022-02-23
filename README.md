@@ -1,6 +1,6 @@
 ### Hi there. 👋 
 
-I'm a 26 year old Android developer. Currently working @ <a href="https://cobeisfresh.com">COBE Osijek</a>.  
+I'm a 27 year old Android developer. Currently working @ <a href="https://cobeisfresh.com">COBE Osijek</a>.  
 
 - 🤝 I’m leading a great team of 4 Android developers.
 - 👨‍💻 Also building beautiful Android apps.
