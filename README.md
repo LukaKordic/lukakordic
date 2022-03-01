@@ -8,7 +8,6 @@ I'm a 27 year old Android developer. Currently working @ <a href="https://cobeis
  You can check some of those out on <a href="https://medium.com/@lukakordi">my medium page.</a>.
 - 💻 Tinkering with Jetpack Compose
 - 🗣️ Holding lectures in the local GDG Osijek community
-- 🧗‍♂️ 🎮 📺 📚 climbing, video games, TV shows, reading in spare time. 
 
 <!--
 **LukaKordic/lukakordic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
