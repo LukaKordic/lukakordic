@@ -2,8 +2,7 @@
 
 I'm a 27 year old Android developer. Currently working @ <a href="https://cobeisfresh.com">COBE Osijek</a>.  
 
-- 🤝 I’m leading a great team of 4 Android developers.
-- 👨‍💻 Also building beautiful Android apps.
+- 👨‍💻 Android developer/Team Lead.
 - ✍️ Writing technical articles for the company's blog and for the RayWenderlich team.  
  You can check some of those out on <a href="https://medium.com/@lukakordi">my medium page.</a>.
 - 💻 Tinkering with Jetpack Compose
