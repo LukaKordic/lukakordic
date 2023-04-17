@@ -1,6 +1,6 @@
 ### Hi there. 👋 
 
-I'm a 27 year old Android developer. Currently working @ <a href="https://cobeisfresh.com">COBE Osijek</a>.  
+I'm an Android developer currently working @ <a href="https://cobeisfresh.com">COBE Osijek</a>.  
 
 - 👨‍💻 Android developer/Team Lead.
 - ✍️ Writing technical articles for the company's blog and for the RayWenderlich team.  
