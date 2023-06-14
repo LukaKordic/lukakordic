@@ -3,10 +3,11 @@
 I'm an Android developer currently working @ <a href="https://cobeisfresh.com">COBE Osijek</a>.  
 
 - 👨‍💻 Android developer/Team Lead.
-- ✍️ Writing technical articles for the company's blog and for the RayWenderlich team.  
+- ✍️ Writing technical articles for the company's blog and for the <a href="https://www.kodeco.com/37885995-kotlin-coroutines-tutorial-for-android-getting-started">Kodeco team</a>.
  You can check some of those out on <a href="https://medium.com/@lukakordi">my medium page.</a>.
-- 💻 Tinkering with Jetpack Compose
-- 🗣️ Holding lectures in the local GDG Osijek community
+- 📖 Co-author of the <a href="https://www.kodeco.com/books/kotlin-coroutines-by-tutorials">Kotlin Coroutines</a> book.
+- 💻 Tinkering with Jetpack Compose, Kotlin Multiplatform & Flutter.
+- 🗣️ Co-organizer and speaker in the GDG Osijek community.
 
 <!--
 **LukaKordic/lukakordic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
