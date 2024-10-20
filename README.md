@@ -1,8 +1,8 @@
 ### Hi there. 👋 
 
-I'm an Android developer currently working @ <a href="https://cobeisfresh.com">COBE Osijek</a>.  
+I'm an Android developer currently working @ <a href="https://spyro-soft.com">Spyrosoft</a>.  
 
-- 👨‍💻 Android developer/Team Lead.
+- 👨‍💻 Working with Android since 2017.
 - ✍️ Writing technical articles for the company's blog and for the <a href="https://www.kodeco.com/37885995-kotlin-coroutines-tutorial-for-android-getting-started">Kodeco team</a>.
  You can check some of those out on <a href="https://medium.com/@lukakordi">my medium page.</a>.
 - 📖 Co-author of the <a href="https://www.kodeco.com/books/kotlin-coroutines-by-tutorials">Kotlin Coroutines</a> book.
